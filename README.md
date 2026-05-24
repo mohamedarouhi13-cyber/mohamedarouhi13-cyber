@@ -20,7 +20,8 @@ I love building modern, clean and efficient web applications.
 - 🔭 Currently working on web projects
 - 📚 Always learning new technologies
 - 💡 Interested in backend development & system design
-- 🎯 Mon objectif est de devenir Développeur Senior.
+- 🎯 My goal is to become a Senior Developer.
+
 
 ---
 
